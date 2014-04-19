@@ -4,8 +4,9 @@ execute pathogen#infect()
 
 " Use :help <option> to see the docs
 set expandtab
-set shiftwidth=4
-set softtabstop=4
+set shiftwidth=2
+set softtabstop=2
+set tabstop=2
 set smartindent
 set incsearch
 set ignorecase
