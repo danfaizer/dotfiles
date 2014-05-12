@@ -34,7 +34,7 @@ Installation
 There is no automatic way to install this, but only a few links need to be created. You can install all the plugins and create the links as follows:
 
     # Clone the repo
-    git clone https://github.com/nacx/dotfiles.git
+    git clone https://github.com/danfaizer/dotfiles.git
     cd doftiles
 
     # Clone the plugins
